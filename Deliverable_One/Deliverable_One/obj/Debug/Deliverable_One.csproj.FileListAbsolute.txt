@@ -1,0 +1,6 @@
+/Users/tarik/Projects/Deliverable_One/Deliverable_One/bin/Debug/Deliverable_One.exe
+/Users/tarik/Projects/Deliverable_One/Deliverable_One/bin/Debug/Deliverable_One.pdb
+/Users/tarik/Projects/Deliverable_One/Deliverable_One/obj/Debug/Deliverable_One.csproj.AssemblyReference.cache
+/Users/tarik/Projects/Deliverable_One/Deliverable_One/obj/Debug/Deliverable_One.csproj.CoreCompileInputs.cache
+/Users/tarik/Projects/Deliverable_One/Deliverable_One/obj/Debug/Deliverable_One.exe
+/Users/tarik/Projects/Deliverable_One/Deliverable_One/obj/Debug/Deliverable_One.pdb
